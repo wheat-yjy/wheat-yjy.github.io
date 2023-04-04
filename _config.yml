@@ -15,10 +15,18 @@ theme_settings :
     experience :
       - start : 2022-06-20
         end : 2022-09-09
-        experience : Meta, Software Engineer Intern
+        experience : Meta, Software Engineer Intern in Account Infra Team
+      - start : 2020-10-15
+        end : 2021-07-12
+        experience: 89Trillion, Game Developer for Art of War
+      - start : 2020-06-20
+        end : 2020-10-09
+        experience: Jiliguala, Python Backend Engineer in CRM Team
     skills : 
       - skill : Cpp, Python, Java
-        value : 85  # Percent value
+      - skill : MySql Redis
+      - skill : Linux MacOS
+      - skill : Kafka GraphX
         
   # Icons
   icons :
